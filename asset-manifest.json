@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Angels-Rolodex/static/css/main.98c80698.css",
+    "main.js": "/Angels-Rolodex/static/js/main.79a89c4e.js",
+    "static/js/787.fbb2c275.chunk.js": "/Angels-Rolodex/static/js/787.fbb2c275.chunk.js",
+    "index.html": "/Angels-Rolodex/index.html",
+    "main.98c80698.css.map": "/Angels-Rolodex/static/css/main.98c80698.css.map",
+    "main.79a89c4e.js.map": "/Angels-Rolodex/static/js/main.79a89c4e.js.map",
+    "787.fbb2c275.chunk.js.map": "/Angels-Rolodex/static/js/787.fbb2c275.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c80698.css",
+    "static/js/main.79a89c4e.js"
+  ]
+}
